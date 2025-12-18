@@ -7,11 +7,11 @@ This profile has ONLY MY PERSONAL PROJECTS SINCE i was 15/16
 These are my most difficult and important projects
 
 
-- 🐍 [Python Projects](https://github.com/search?q=user:Diego123+topic:python&type=repositories)  
-- ⚙️ [CAD Projects](https://github.com/search?q=user:Diego123+topic:cad&type=repositories)  
-- 🧲 [Physics Projects](https://github.com/search?q=user:Diego123+topic:physics&type=repositories)  
-- 📐 [Math Projects](https://github.com/search?q=user:Diego123+topic:math&type=repositories)  
-- 🗃️ [Archives / Experiments](https://github.com/search?q=user:Diego123+topic:archive&type=repositories)
+- 🐍 [Python Projects](https://github.com/search?q=user:DiegoVerdini+topic:python&type=repositories)  
+- ⚙️ [CAD Projects](https://github.com/search?q=user:DiegoVerdini+topic:cad&type=repositories)  
+- 🧲 [Physics Projects](https://github.com/search?q=user:DiegoVerdini+topic:physics&type=repositories)  
+- 📐 [Math Projects](https://github.com/search?q=user:DiegoVerdini+topic:math&type=repositories)  
+- 🗃️ [Archives / Experiments](https://github.com/search?q=user:DiegoVerdini+topic:archive&type=repositories)
 
 
 
